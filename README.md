@@ -1,2 +1,3 @@
 # My-portfolio
-this is my first projecton on github
+
+This is my first projecton on github.
